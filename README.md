@@ -1,1 +1,1 @@
-[Live Demo](https://https://free-skill.netlify.app/)
+[Live Demo](https://free-skill.netlify.app/)
